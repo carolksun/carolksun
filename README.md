@@ -1,38 +1,37 @@
-## Hi there, I'm Carol Sun 👋
+# Hi there, I'm Carol Sun 👋
 
 - :books: I’m currently a junior at Caltech studying computer science.
 - :rainbow: 2020 Goals: Explore new areas of software engineering and work on more personal projects
 - :stars: Fun fact: I've walked over 10,000 steps every day for the past two years.
 
-### Some Things that I'm Currently Exploring:
+## Some Things that I'm Currently Exploring:
 
 - :doughnut: Cooking and Baking
 - :camera: Photography
 - :art: Graphic Design
 - :lemon: Gardening
-<br />
 
-### Projects I'm Proud of:
-#### Google STEP Capstone Project
+## Projects I'm Proud of:
+### Google STEP Capstone Project
 I was part of a group of three STEP interns on the Configuration and Data Push team at Google, working on visualizaions for configuration pushes. I created the cumulative distribtuion function visualization for individual pushes, writing in TypeScript and using the d3 library.
 <br />
 
 [![Capstone Project](https://github-readme-stats.vercel.app/api/pin/?username=googleinterns&repo=step189-2020)](https://github.com/googleinterns/step189-2020)
 
-#### 15 Days of Generative Art
+### 15 Days of Generative Art
 I challenged myself to create a piece of generative art every day for 15 days. This personal project combined my interests in computer science, mathematics, and design, resulting in some pretty cool artworks.
 <br />
 
 [![Generative Art](https://github-readme-stats.vercel.app/api/pin/?username=carolksun&repo=generative-art)](https://github.com/carolksun/generative-art)
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
