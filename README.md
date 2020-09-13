@@ -45,9 +45,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="my Github Stats" src="https://github-readme-stats.vercel.app/api?username=carolksun&show_icons=true&theme=buefy&hide=stars" />
+  <img align="left" alt="my Github Stats" src="https://github-readme-stats.vercel.app/api?username=carolksun&show_icons=true&theme=buefy&hide=stars,issues&count_private=true&include_all_commits=true" />
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolksun)
 
 </details>
 
