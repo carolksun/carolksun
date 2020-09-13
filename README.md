@@ -10,13 +10,19 @@
 - :camera: Photography
 - :art: Graphic Design
 - :lemon: Gardening
+<br />
 
 ### Projects I'm Proud of:
 #### Google STEP Capstone Project
 I was part of a group of three STEP interns on the Configuration and Data Push team at Google, working on visualizaions for configuration pushes. I created the cumulative distribtuion function visualization for individual pushes, writing in TypeScript and using the d3 library.
+<br />
+
 [![Capstone Project](https://github-readme-stats.vercel.app/api/pin/?username=googleinterns&repo=step189-2020)](https://github.com/googleinterns/step189-2020)
+
 #### 15 Days of Generative Art
 I challenged myself to create a piece of generative art every day for 15 days. This personal project combined my interests in computer science, mathematics, and design, resulting in some pretty cool artworks.
+<br />
+
 [![Generative Art](https://github-readme-stats.vercel.app/api/pin/?username=carolksun&repo=generative-art)](https://github.com/carolksun/generative-art)
 
 ### Connect with me:
