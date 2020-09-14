@@ -10,6 +10,7 @@
 - :camera: Photography
 - :art: Graphic Design
 - :lemon: Gardening
+- :seedling: Sustainability and Zero waste
 
 ## Projects I'm Proud of:
 ### Google STEP Capstone Project
