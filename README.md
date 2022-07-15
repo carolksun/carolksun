@@ -1,8 +1,7 @@
 # Hi there, I'm Carol Sun 👋
 
-- :books: I’m currently a senior at Caltech studying computer science.
-- :rainbow: 2020 Goals: Explore new areas of software engineering and work on more personal projects
-- :stars: Fun fact: I've walked over 10,000 steps every day for the past two years.
+- :books: I just graduated Caltech with a degree in computer science.
+- :stars: Fun fact: I've walked over 10,000 steps every day for the past five years.
 
 ## Some Things that I'm Currently Exploring:
 
