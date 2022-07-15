@@ -44,7 +44,6 @@ I challenged myself to create a piece of generative art every day for 15 days. T
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/pytorch/pytorch.github.io/site/favicon.ico"/>
-<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/jupyter/notebook/master/notebook/static/favicon.ico" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="D3" width="26px" src="https://d3js.org/logo.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
